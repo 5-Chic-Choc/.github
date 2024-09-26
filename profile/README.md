@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🛒 S.I.VILLAGE 리빌딩 프로젝트 : 칙칙한 초코칩조
+  🙋‍♀️ 신세계 I&C 와 부산광역시가 주관하는 **스파로스 아카데미** 5기 1차 리빌딩 프로젝트입니다. 
