@@ -32,7 +32,7 @@
 ### [이재훈](https://github.com/JaeHunLee-git)
 - BackEnd
   - 상품 필터링 및 Pagenation 구현(Query DSL)
-  - Best 100 상품(Spring Batch)  
+  - Best 100 상품(Spring Scheduler)  
   - 최근 본 상품, 최근 검색어(Redis)
   - 프로모션(필터링), 브랜드, 카테고리, 프로모션, 검색(제품/해시태그/브랜드)
   - 성능 최적화 및 테스트
