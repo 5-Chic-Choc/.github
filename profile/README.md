@@ -64,6 +64,8 @@
 ### ERD
 [ERD cloud](https://www.erdcloud.com/d/4JTP48haeZthXnHgu)
 
+### 기술스택
+![image](https://github.com/5-Chic-Choc/.github/blob/main/%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.PNG)
 
 
 
