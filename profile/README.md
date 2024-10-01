@@ -68,18 +68,18 @@
 ![image](https://github.com/5-Chic-Choc/.github/blob/main/%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.PNG)
 
 ### 페이지
-#### 회원가입/로그인
-![회원가입/로그인](https://github.com/5-Chic-Choc/.github/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%2C%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
-#### 메인
-![mainpage](https://github.com/5-Chic-Choc/.github/blob/main/main.gif)
-#### 이벤트
-![eventpage](https://github.com/5-Chic-Choc/.github/blob/main/%EC%9D%B4%EB%B2%A4%ED%8A%B8.gif)
+<div style="display: flex; justify-content: space-between;">
+  <img src="[GIF_URL_1](https://github.com/5-Chic-Choc/.github/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%2C%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)" alt="main" width="300"/>
+  <img src="[GIF_URL_2](https://github.com/5-Chic-Choc/.github/blob/main/main.gif)" alt="main" width="300"/>
+  <img src="[GIF_URL_3](https://github.com/5-Chic-Choc/.github/blob/main/%EC%9D%B4%EB%B2%A4%ED%8A%B8.gif)" alt="eventpage" width="300"/>
+</div>	
 #### 베스트
 ![bestpage](https://github.com/5-Chic-Choc/.github/blob/main/%EB%B2%A0%EC%8A%A4%ED%8A%B8.gif)
 #### 카테고리
 ![categorypage](https://github.com/5-Chic-Choc/.github/blob/main/%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC.gif)
 #### 브랜드
 ![brandpage](https://github.com/5-Chic-Choc/.github/blob/main/%EB%B8%8C%EB%9E%9C%EB%93%9C.gif)
+
 #### 장바구니
 ![cart](https://github.com/5-Chic-Choc/.github/blob/main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98.gif)
 #### 해시태그
