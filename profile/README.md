@@ -67,6 +67,9 @@
 ### 기술스택
 ![image](https://github.com/5-Chic-Choc/.github/blob/main/%EA%B8%B0%EC%88%A0%EC%8A%A4%ED%83%9D.PNG)
 
+### 페이지
+![회원가입/로그인](https://github.com/5-Chic-Choc/.github/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%2C%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
+
 
 
 
