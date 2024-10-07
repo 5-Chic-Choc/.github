@@ -38,14 +38,14 @@
       </td>
     </tr>
     <tr>
-      <td height="200">
+      <td height="250">
         <sub>
           <p> 장바구니 페이지 </p>
           <p> 카테고리 페이지 </p>
           <p> 브랜드 페이지 </p>
         </sub>
       </td>
-      <td>
+      <td height="250">
         <sub>
           <p> 회원가입/로그인(NextAuth)
           <p> 메인페이지, 제품, 프로모션 </p>
@@ -55,7 +55,7 @@
           <p> 프로젝트 및 협업도구 설정 </p>
         </sub>
       </td>
-      <td>
+      <td height="250">
         <sub>
           <p> CI/CD 및 인프라 구축(FE/BE) </p>
           <p> 리뷰 </p>
@@ -64,7 +64,7 @@
           <p> 배송지 </p>
         </sub>
       </td>
-      <td>
+      <td height="250">
         <sub>
           <p> 상품 필터링 및 Pagenation 구현 </p>
           <p> Best 100 상품(Spring Scheduler) </p>
@@ -74,7 +74,7 @@
           <p> 성능 테스트 </p>
         </sub>
       </td>
-      <td>
+      <td height="250">
         <sub>
           <p> Auth(Security, oAuth2, JWT(Redis)) </p>
           <p> 카테고리, 이벤트 데이터 스크래핑</p>
